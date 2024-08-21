@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/PrimeVideo-ReactJS/static/css/main.7cb26d0a.chunk.css",
+    "main.js": "/PrimeVideo-ReactJS/static/js/main.51ddf2c8.chunk.js",
+    "main.js.map": "/PrimeVideo-ReactJS/static/js/main.51ddf2c8.chunk.js.map",
+    "runtime-main.js": "/PrimeVideo-ReactJS/static/js/runtime-main.5967413c.js",
+    "runtime-main.js.map": "/PrimeVideo-ReactJS/static/js/runtime-main.5967413c.js.map",
+    "static/css/2.6ce8571d.chunk.css": "/PrimeVideo-ReactJS/static/css/2.6ce8571d.chunk.css",
+    "static/js/2.43123ade.chunk.js": "/PrimeVideo-ReactJS/static/js/2.43123ade.chunk.js",
+    "static/js/2.43123ade.chunk.js.map": "/PrimeVideo-ReactJS/static/js/2.43123ade.chunk.js.map",
+    "index.html": "/PrimeVideo-ReactJS/index.html",
+    "static/css/2.6ce8571d.chunk.css.map": "/PrimeVideo-ReactJS/static/css/2.6ce8571d.chunk.css.map",
+    "static/css/main.7cb26d0a.chunk.css.map": "/PrimeVideo-ReactJS/static/css/main.7cb26d0a.chunk.css.map",
+    "static/js/2.43123ade.chunk.js.LICENSE.txt": "/PrimeVideo-ReactJS/static/js/2.43123ade.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/PrimeVideo-ReactJS/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5967413c.js",
+    "static/css/2.6ce8571d.chunk.css",
+    "static/js/2.43123ade.chunk.js",
+    "static/css/main.7cb26d0a.chunk.css",
+    "static/js/main.51ddf2c8.chunk.js"
+  ]
+}
